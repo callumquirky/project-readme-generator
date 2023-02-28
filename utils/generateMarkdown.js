@@ -5,12 +5,6 @@ const createLicenseBadge = (license) => {
   return;
 }
 
-const createLicenseLink = (license) =>{
-  if(license !== "none"){
-    return `\n* [License](#license\n)`
-  }
-  return;
-}
 
 // function to generate markdown for README
 function generateMarkdown(data) {
@@ -43,6 +37,7 @@ function generateMarkdown(data) {
   ${data.usage}
 
   ## License
+  
   ${createLicenseLink(data.license)}
 
   ## Contributing

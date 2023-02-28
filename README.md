@@ -1,8 +1,8 @@
-# poo
+# Poo
   ![Github license](https://img.shields.io/badge/license-MIT-blueviolet.svg)
 
   ## Description
-  poo
+  Poo
 
   ## Table of Contents
 
@@ -16,7 +16,7 @@
 
   * [Tests](#tests)
 
-  
+  * [User](#user)
 
   ## Installation
 
@@ -28,8 +28,8 @@
 
   ## License
   
-* [License](#license
-)
+  
+* [License](#license)
 
   ## Contributing
 
@@ -37,7 +37,8 @@
 
   ## Tests
   poo
-  
+
   ## User
+  
   By poo, contact me at poo
   
