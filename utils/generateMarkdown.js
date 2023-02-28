@@ -32,6 +32,8 @@ function generateMarkdown(data) {
 
   * [Tests](#tests)
 
+  * [User](#user)
+
   ## Installation
 
   ${data.installation}
@@ -49,6 +51,8 @@ function generateMarkdown(data) {
 
   ## Tests
   ${data.tests}
+
+  ## User
   
   By ${data.username}, contact me at ${data.email}
   `;
