@@ -18,7 +18,7 @@ function generateMarkdown(data) {
 
   * [Installation](#installation)
 
-  * [Usage](#ssage)
+  * [Usage](#usage)
 
   * [License](#license)
 
@@ -38,7 +38,7 @@ function generateMarkdown(data) {
 
   ## License
   
-  ${createLicenseLink(data.license)}
+  This project uses the ${data.license} license.
 
   ## Contributing
 
